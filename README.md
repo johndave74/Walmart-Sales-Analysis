@@ -2,7 +2,7 @@
 
 ## About
 
-This project aims to explore the Walmart Sales data to understand top performing branches and products, sales trend of of different products, customer behaviour. The aims is to study how sales strategies can be improved and optimized. The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting).
+This project aims to explore the Walmart Sales data to understand top performing branches and products, sales trend of of different products, customer behaviour. The aims is to study how sales strategies can be improved and optimized.
 
 
 ## Purposes Of The Project
@@ -11,7 +11,7 @@ The main purpose of thie project is to gain insight into the sales data of Walma
 
 ## About Data
 
-The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting). This dataset contains sales transactions from a three different branches of Walmart, respectively located in Mandalay, Yangon and Naypyitaw. The data contains 17 columns and 1000 rows:
+This dataset contains sales transactions from a three different branches of Walmart, respectively located in Mandalay, Yangon and Naypyitaw. The data contains 17 columns and 1000 rows:
 
 | Column                  | Description                             | Data Type      |
 | :---------------------- | :-------------------------------------- | :------------- |
@@ -141,10 +141,6 @@ $ total = VAT + COGS\\= 16.0265 + 320.53 = $336.5565$
 
 $ \text{Gross Margin Percentage} = \frac{\text{gross income}}{\text{total revenue}}\\=\frac{16.0265}{336.5565} = 0.047619\\\approx 4.7619\% $
 
-## Code
-
-For the rest of the code, check the [SQL_queries.sql] (https://github.com/johndave74/Walmart-Sales-Analysis/blob/main/Walmart%20Sales%20Queries.sql) 
-file
 
 ```sql
 -- Create database
